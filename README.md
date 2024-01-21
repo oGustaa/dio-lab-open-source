@@ -1,3 +1,24 @@
+<style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -16,22 +37,23 @@ Aprender o básico sobre contribuição no GitHub.
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
+
 ## Percurso
 <table>
   <thead>
-    <tr align="left">
+    <tr>
       <th>Nº</th>
       <th>Etapas</th>
       <th>Materiais de Apoio</th>
     </tr>
   </thead>
-  <tbody align="left">
+  <tbody>
     <tr>
       <td>01</td>
       <td>Introdução ao Lab</td>
       <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        <a href="URL_DO_SEU_MATERIAL" target="_blank">
+          <img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -39,8 +61,8 @@ Aprender o básico sobre contribuição no GitHub.
       <td>02</td>
       <td>Formas de Contribuir num Projeto Open Source</td>
       <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        <a href="URL_DO_SEU_MATERIAL" target="_blank">
+          <img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -48,8 +70,8 @@ Aprender o básico sobre contribuição no GitHub.
       <td>03</td>
       <td>Desenvolvendo e Enviando uma Contribuição</td>
       <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        <a href="URL_DO_SEU_MATERIAL" target="_blank">
+          <img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
@@ -57,8 +79,8 @@ Aprender o básico sobre contribuição no GitHub.
       <td>04</td>
       <td>Dicas e Materiais de Apoio</td>
       <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        <a href="URL_DO_SEU_MATERIAL" target="_blank">
+          <img alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>    
     </tr>
